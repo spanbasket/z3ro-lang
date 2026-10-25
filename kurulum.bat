@@ -6,7 +6,7 @@ echo [z3r Kurulumu Başlatılıyor...]
 if not exist "%LocalAppData%\z3r" mkdir "%LocalAppData%\z3r"
 
 :: 2. z3r.exe dosyasını dist klasöründen AppData\z3r klasörüne kopyalayalım
-copy /Y "dist\z3r.exe" "%LocalAppData%\z3r\z3r.exe"
+copy /Y "dist\z3r.exe" "%LocalAppData%\z3r\z3r_v3.exe"
 
 :: 3. Windows klasörüne atılacak köprü .bat dosyasını oluşturalım
 echo @echo off > "%Temp%\z3r.bat"
