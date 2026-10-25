@@ -47,18 +47,6 @@ Hoş geldin! z3r, Python gücünü kullanan yerli ve güçlü bir dildir.
   • z3r x3 install paket.x3   -> x3 ile kütüphane indirir (Örn: discord.x3)
   • z3r komut [cmd]           -> Doğrudan CMD (Terminal) komutu çalıştırır.
   • z3r yardım                -> Bu yardım menüsünü açar.
-
-  [ Türkçe Kod Sözlüğü (Python Eşdeğerleri) ]
-  • eğer ... / değilse_eğer / değilse -> if / elif / else (Koşullar)
-  • tekrarla                          -> for (Döngüler)
-  • iken                              -> while (Döngüler)
-  • tanımla                           -> def (Fonksiyon oluşturma)
-  • döndür                            -> return (Fonksiyondan değer döndürme)
-  • dahil_et                          -> import (Kütüphane ekleme)
-  • sınıf                             -> class (Sınıf tanımlama)
-  • dene / hariç                      -> try / except (Hata yakalama)
-  • doğru / yanlış / boş              -> True / False / None
-  • ve / veya / değil                 -> and / or / not (Mantıksal bağlaçlar)
 ==================================================================
 """)
 
